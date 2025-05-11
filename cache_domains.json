@@ -123,6 +123,11 @@
 			"domain_files": ["windowsupdates.txt"]
 		},
 		{
+			"name": "lancache",
+			"description": "Lancache dashboard domain",
+			"domain_files": ["lancache.txt"]
+		},
+		{
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
