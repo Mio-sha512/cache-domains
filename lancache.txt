@@ -1,3 +1,2 @@
 lancache.lan 
-lancache.local 
-lancache
+lancache.local
